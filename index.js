@@ -8,5 +8,5 @@ var uppercase = "HELLO!"
 uppercase.toUpperCase() === uppercase 
 var lowercase = "hello!"
 lowercase.toLowerCase() === lowercase
-if (lowercase === "string") {return "I can't hear you!"}
+if (string === "lowercase") {return "I can't hear you!"}
 else {return "YES INDEED!"}
