@@ -10,3 +10,4 @@ var lowercase = "hello!"
 lowercase.toLowerCase() === lowercase
 if (string === "lowercase") {return "I can't hear you!"}
 else {return "YES INDEED!"}
+function sayHiToGrandma(string) {return 
